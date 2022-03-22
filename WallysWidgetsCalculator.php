@@ -1,7 +1,5 @@
 <?php
 
-require __DIR__ . '/PossibleAnswer.php';
-
 class WallysWidgetsCalculator
 {
     /**
