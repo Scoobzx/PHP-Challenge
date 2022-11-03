@@ -33,4 +33,4 @@ Keep your program flexible, so that new pack sizes may be added, or existing pac
 
 A basic structure is included in this repository and PHPUnit tests have been included to help you check your solution before submitting it. You should run the tests with `./vendor/bin/phpunit`. Some of these tests are quite difficult and we do not necessarily expect that all of them will pass, however, you should aim to make as many of the tests as possible run successfully. 
 
-Please send us your code (either on GitHub/GitLab etc., or as a zip) and also deploy your solution to an online environment we can access via the web.
+Please send us your code (either on GitHub/GitLab etc., or as a zip).
