@@ -12,7 +12,7 @@ class WallysWidgetsCalculatorTest extends TestCase
 {
     private WallysWidgetsCalculator $calculator;
 
-    protected function setUp()
+    protected function setUp(): void
     {
         $this->calculator = new WallysWidgetsCalculator();
     }
